@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- *         cbourke@cse.unl.edu
+ * Author: Donovan Earsley
+ *         dearsley2@huskers.unl.edu
  * Date: 2020/03/26
  *
  * A simple hello world program in C
@@ -11,7 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Donovan Earsley\n");
+  printf("Cyber Security\n");
 
   return 0;
 }
