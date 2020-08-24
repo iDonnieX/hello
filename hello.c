@@ -12,6 +12,9 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
+  
+  Printf("Nick Craig\n");
+  Printf("Undeclared\n");
 
   return 0;
 }
